@@ -8,4 +8,5 @@ select and option tags to create a drop-down menu.
 <br>
 
 used different values of type attribute to get different type of input boxes. Values used for type attribute are radio,datatime-local, tel, email, password, check, color, file, reset, button, text etc.
+<br>
 ![f2](https://github.com/jaitensahu/Form_assignment/assets/127736781/7e4d2b9a-c3d8-40ac-a8c2-474bc8f5b386)
